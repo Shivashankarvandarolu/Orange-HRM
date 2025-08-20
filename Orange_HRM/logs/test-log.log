@@ -1,0 +1,270 @@
+[2025-08-19 07:48:05] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-19 07:48:07] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+[2025-08-19 07:48:07] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+[2025-08-19 07:48:13] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-19 07:48:21] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-19 07:48:21] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-19 07:49:29] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-19 07:49:30] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+[2025-08-19 07:49:30] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+[2025-08-19 07:49:34] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-19 07:49:41] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-19 07:49:43] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-19 07:49:43] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-19 07:49:44] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-19 07:49:44] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-19 07:49:44] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-19 07:49:44] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-19 07:49:45] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-19 07:50:01] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-19 07:50:02] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+[2025-08-19 07:50:02] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+[2025-08-19 07:50:04] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-19 07:50:12] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-19 07:50:14] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-19 07:50:14] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-19 07:50:15] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-19 07:50:15] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-19 07:50:15] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-19 07:50:15] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-19 07:50:15] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-19 07:52:46] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-19 07:52:47] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+[2025-08-19 07:52:47] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+[2025-08-19 07:52:48] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-19 07:52:57] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-19 07:52:59] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-19 07:52:59] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-19 07:53:00] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-19 07:53:00] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-19 07:53:00] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-19 07:53:00] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-19 07:53:01] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-19 20:29:14] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-19 20:29:15] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+[2025-08-19 20:29:15] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+[2025-08-19 20:29:17] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-19 20:29:22] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-19 20:29:23] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-19 20:29:23] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-19 20:29:23] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-19 20:29:23] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-19 20:29:24] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-19 20:29:24] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-19 20:29:24] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:07:20] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:07:20] INFO  DriverFactory:33 - Running tests on remote WebDriver Grid.
+[2025-08-20 20:07:20] ERROR DriverFactory:77 - Failed to initialize WebDriver for browser: chrome
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Unable to parse remote response: Unable to find resource, invalid path in url. 
+Host info: host: 'LAPTOP-I32LRC1M', ip: '100.72.203.248'
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:100) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:246) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.35.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.35.0.jar:?]
+	at DriverFactory.DriverFactory.initDriver(DriverFactory.java:40) [classes/:?]
+	at Hooks.Hooks.setUp(Hooks.java:12) [classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.27.0.jar:7.27.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.27.0.jar:7.27.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.27.0.jar:7.27.0]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:68) [cucumber-java-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:80) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) [cucumber-testng-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.27.0.jar:7.27.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) [cucumber-testng-7.27.0.jar:7.27.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) [cucumber-testng-7.27.0.jar:7.27.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:81) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) [testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1447) [?:?]
+Caused by: org.openqa.selenium.json.JsonException: Unable to parse: Unable to find resource, invalid path in url.
+	at org.openqa.selenium.json.Json.toType(Json.java:169) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.json.Json.toType(Json.java:152) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96) ~[selenium-remote-driver-4.35.0.jar:?]
+	... 39 more
+Caused by: org.openqa.selenium.json.JsonException: Unable to determine type from: U. Last 1 characters read: U, next 44 characters to read: nable to find resource, invalid path in url.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.json.JsonInput.peek(JsonInput.java:166) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.json.JsonTypeCoercer.lambda$buildCoercer$6(JsonTypeCoercer.java:167) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.json.JsonTypeCoercer.coerce(JsonTypeCoercer.java:146) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.json.Json.toType(Json.java:206) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.json.Json.toType(Json.java:167) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.json.Json.toType(Json.java:152) ~[selenium-json-4.35.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:96) ~[selenium-remote-driver-4.35.0.jar:?]
+	... 39 more
+[2025-08-20 20:10:17] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:10:19] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:10:19] INFO  Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win64/chromedriver-win64.zip
+[2025-08-20 20:10:21] INFO  Downloader:189 - Extracting driver from compressed file chromedriver-win64.zip
+[2025-08-20 20:10:21] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:10:24] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:10:28] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:10:29] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:10:29] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:10:29] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:10:29] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:10:29] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:10:29] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:10:30] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:11:38] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:11:39] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:11:39] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:11:40] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:11:45] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:11:46] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:11:46] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:11:46] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:11:46] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:11:46] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:11:46] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:11:47] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:16:51] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:16:52] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:16:52] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:16:53] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:16:57] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:16:58] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:16:58] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:16:58] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:16:58] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:16:59] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:16:59] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:17:00] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:18:50] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:18:50] INFO  DriverFactory:33 - Running tests on remote WebDriver Grid.
+[2025-08-20 20:18:53] INFO  DriverFactory:41 - Chrome browser launched on Selenium Grid.
+[2025-08-20 20:18:56] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:18:57] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:18:57] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:18:58] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:18:58] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:18:59] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:18:59] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:18:59] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:31:35] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:31:35] INFO  DriverFactory:33 - Running tests on remote WebDriver Grid.
+[2025-08-20 20:31:37] INFO  DriverFactory:41 - Chrome browser launched on Selenium Grid.
+[2025-08-20 20:31:43] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:31:44] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:31:44] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:31:44] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:31:44] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:31:45] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:31:45] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:31:45] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:33:41] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:33:41] INFO  DriverFactory:33 - Running tests on remote WebDriver Grid.
+[2025-08-20 20:33:42] INFO  DriverFactory:41 - Chrome browser launched on Selenium Grid.
+[2025-08-20 20:33:46] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:33:47] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:33:47] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:33:47] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:33:47] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:33:47] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:33:47] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:33:48] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:37:30] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:37:30] INFO  DriverFactory:33 - Running tests on remote WebDriver Grid.
+[2025-08-20 20:37:33] INFO  DriverFactory:41 - Chrome browser launched on Selenium Grid.
+[2025-08-20 20:37:37] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:37:38] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:37:38] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:37:38] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:37:38] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:37:39] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:37:39] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:37:39] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:45:51] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:45:51] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:45:51] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:45:51] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:45:51] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:45:51] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:45:53] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:45:53] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:45:57] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:45:57] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:45:58] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:45:58] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:45:58] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:45:58] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:45:58] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:45:58] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:45:58] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:45:58] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:45:59] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:45:59] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:45:59] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:46:00] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:46:00] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:46:00] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:48:45] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:48:45] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:48:46] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:48:46] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:48:46] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:48:46] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:48:48] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:48:48] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:48:52] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:48:52] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:48:52] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:48:52] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:48:52] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:48:53] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:48:53] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:48:53] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:48:53] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:48:53] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:48:53] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:48:53] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:48:54] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:48:54] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:48:54] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:48:54] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:51:38] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:51:38] INFO  DriverFactory:30 - Initializing WebDriver for browser: chrome
+[2025-08-20 20:51:39] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:51:39] INFO  WebDriverManager:1220 - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+[2025-08-20 20:51:39] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:51:39] INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Swapna\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+[2025-08-20 20:51:43] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:51:43] INFO  DriverFactory:61 - Chrome browser launched locally.
+[2025-08-20 20:51:47] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:51:48] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:51:48] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:51:48] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:51:49] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:51:49] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:51:49] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:51:49] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 20:51:50] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 20:51:51] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 20:51:52] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 20:51:52] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 20:51:52] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 20:51:52] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 20:51:52] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 20:51:53] INFO  DriverFactory:100 - Browser closed successfully.
