@@ -10,3 +10,4 @@ Feature: Login Page UI validation
     Then I should see the email textbox and password textbox displayed
     When I enter email 'Admin' and password 'admin123'
     Then I click on login button
+## Test
