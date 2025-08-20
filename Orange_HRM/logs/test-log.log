@@ -298,3 +298,27 @@ Driver info: driver.version: RemoteWebDriver
 [2025-08-20 21:21:40] INFO  DriverFactory:97 - Closing the browser...
 [2025-08-20 21:21:42] INFO  DriverFactory:100 - Browser closed successfully.
 [2025-08-20 21:21:42] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 21:49:59] INFO  DriverFactory:30 - Initializing WebDriver for browser: firefox
+[2025-08-20 21:49:59] INFO  DriverFactory:30 - Initializing WebDriver for browser: firefox
+[2025-08-20 21:50:00] INFO  WebDriverManager:1220 - Using geckodriver 0.36.0 (resolved driver for Firefox 141)
+[2025-08-20 21:50:00] INFO  WebDriverManager:1220 - Using geckodriver 0.36.0 (resolved driver for Firefox 141)
+[2025-08-20 21:50:00] INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\Swapna\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2025-08-20 21:50:00] INFO  WebDriverManager:1282 - Exporting webdriver.gecko.driver as C:\Users\Swapna\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2025-08-20 21:50:14] INFO  DriverFactory:68 - Firefox browser launched locally.
+[2025-08-20 21:50:20] INFO  DriverFactory:68 - Firefox browser launched locally.
+[2025-08-20 21:50:27] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 21:50:36] INFO  Login_StepDef:34 - User is on Login page as expected. URL matched: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[2025-08-20 21:50:36] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 21:50:37] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 21:50:38] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 21:50:38] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 21:50:41] INFO  Login_StepDef:44 - Email and Password textboxes are displayed as expected.
+[2025-08-20 21:50:42] INFO  Login_StepDef:54 - Entered email: Admin
+[2025-08-20 21:50:42] INFO  Login_StepDef:57 - Entered password: admin123
+[2025-08-20 21:50:43] INFO  Login_StepDef:64 - Login button is displayed and enabled.
+[2025-08-20 21:50:44] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 21:50:44] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 21:50:49] INFO  Login_StepDef:70 - Clicked on login button.
+[2025-08-20 21:50:49] INFO  DriverFactory:97 - Closing the browser...
+[2025-08-20 21:50:53] INFO  DriverFactory:100 - Browser closed successfully.
+[2025-08-20 21:50:53] INFO  DriverFactory:100 - Browser closed successfully.
